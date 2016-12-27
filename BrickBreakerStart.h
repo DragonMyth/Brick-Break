@@ -1,0 +1,6 @@
+#ifndef BRICKBREAKERSTART_BITMAP_H
+#define BRICKBREAKERSTART_BITMAP_H
+extern const unsigned short BrickBreakerStart[38400];
+#define BRICKBREAKERSTART_WIDTH 240
+#define BRICKBREAKERSTART_HEIGHT 160
+#endif
