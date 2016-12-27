@@ -1,0 +1,11 @@
+This an implementation of a Brick Breaker game.
+
+ Start:	Start the game
+
+     A:	Shoot the ball
+	
+  Left: Move the board to the left
+ Right: Move the board to the right
+
+Select: back to start screen
+
